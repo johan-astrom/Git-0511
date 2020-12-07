@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        System.out.println("seventh version, main");
+        System.out.println("8th version, main");
         //test comment
 
         }
