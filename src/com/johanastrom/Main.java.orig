@@ -3,9 +3,13 @@ package com.johanastrom;
 public class Main {
 
     public static void main(String[] args) {
+<<<<<<< HEAD
+        System.out.println("8th version, feature");
+=======
 
         System.out.println("8th version, main");
         //test comment
 
+>>>>>>> main
         }
 }
